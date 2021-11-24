@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fon" size="0.250000 0.372932" />
+    <ImageTarget name="Imgmg" size="0.250000 0.324537" />
+    <ImageTarget name="243213808_1495101707490302_6562610192273692629_n" size="0.250000 0.733945" />
+  </Tracking>
+</QCARConfig>
